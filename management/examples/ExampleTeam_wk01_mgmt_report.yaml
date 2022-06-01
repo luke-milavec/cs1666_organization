@@ -1,0 +1,19 @@
+# Magagment week end report
+manager_pitt_username: "nlf4"
+week: 1
+# Specific goals:
+goals:
+  - desc: "Build an example YAML report with fake PR numbers"
+    prs: [1, 2]
+    status: "DONE"
+  - desc: "Build a report with 3 goals"
+    prs: [3]
+    status: "incomplete"
+# Team member evalution
+team_members:
+  - pitt_username: "nlf4"
+    score: 0
+    desc: "Did everything needed"
+  - pitt_username: "wcg6"
+    score: -2
+    desc: "Did literally nothing"
