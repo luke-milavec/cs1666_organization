@@ -1,16 +1,14 @@
-# CS1666 TEAMNAMEHERE Management weeks
+# CS1666 MinerPitfall Management weeks
 
 1. 6/1 - 6/7
-	* Manager: NAMENEEDED
+	* Manager: Nara Hernandez
 	* Goals:
-		1. GOALHERE
-		...
+		1. Get Project description approved
 
 2. 6/8 - 6/14
 	* Manager: NAMENEEDED
 	* Goals:
-		1. GOALHERE
-		...
+		1. Build "end credits" game skeleton
 
 3. 6/15 - 6/21
 	* Manager: NAME
@@ -25,13 +23,13 @@
 		...
 
 5. 6/29 - 7/5
-	* Manager: NAMENEEDEDMIDTERM
+	* Manager: NAME
 	* Goals:
 		1. GOALHERE
 		...
 
 6. 7/6 - 7/12
-	* Manager: NAME
+	* Manager: NAMENEEDEDMIDTERM
 	* Goals:
 		1. GOALHERE
 		...
