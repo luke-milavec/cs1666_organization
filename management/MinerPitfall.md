@@ -6,7 +6,7 @@
 		1. Get Project description approved
 
 2. 6/8 - 6/14
-	* Manager: NAMENEEDED
+	* Manager: Matt Trezza
 	* Goals:
 		1. Build "end credits" game skeleton
 
