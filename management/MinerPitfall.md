@@ -35,7 +35,7 @@
 		...
 
 7. 7/13 - 7/19
-	* Manager: NAME
+	* Manager: Yinuo Li
 	* Goals:
 		1. GOALHERE
 		...
