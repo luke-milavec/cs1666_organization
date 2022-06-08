@@ -68,6 +68,7 @@
 **General Topic:** Procedural Generation is programmatic random or pseudo random process to generate game content as opposed to handcrafting it. Procedural generation allows for more content and more replayability because the game is always generating new content. Since the content is being generated programmatically, more content can always be made by tweaking some seed parameters. 
 
 **How we will implement:** We will construct a grid of rooms for the player to explore, each room being created procedurally. We will do this using cellular automata to create natural looking environments. Using rules such as the 4-5 method allows for production of structures that look natural. This process will be based on a random seed, or possibly user entered seeds to allow for sharing of interesting maps. 
+
 Sources: https://csharpcodewhisperer.blogspot.com/2013/07/Rouge-like-dungeon-generation.html
 https://developer.amazon.com/blogs/appstore/post/5cb9c2c4-7bf1-456e-a97c-6d3a0486c063/how-to-generate-random-terrain-with-cellular-automata
     
