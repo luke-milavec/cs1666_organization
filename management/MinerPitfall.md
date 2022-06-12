@@ -29,7 +29,7 @@
 		...
 
 6. 7/6 - 7/12
-	* Manager: NAMENEEDEDMIDTERM
+	* Manager: Lucas Milavec
 	* Goals:
 		1. GOALHERE
 		...
