@@ -1,0 +1,34 @@
+# Magagment week end report
+manager_pitt_username: ""
+week: 1
+# Specific goals:
+goals:
+  - desc: ""
+    prs: []
+    status: ""
+  - desc: ""
+    prs: []
+    status: ""
+# Team member evalution
+team_members:
+  - pitt_username: "lao42" #landin
+    score: 0 #int [-2, -1, 0, 1, 2]
+    desc: ""
+  - pitt_username: "yil201" #yinuo
+    score: 0 
+    desc: ""
+  - pitt_username: "mat271" #matt
+    score: 0
+    desc: ""
+  - pitt_username: "lrm88" #lucas
+    score: 0
+    desc: ""
+  - pitt_username: "jud44" #justin
+    score: 0
+    desc: ""
+  - pitt_username: "nnh6" #nara
+    score: 0
+    desc: ""
+  - pitt_username: "gas101" #grant
+    score: 0
+    desc: ""  
