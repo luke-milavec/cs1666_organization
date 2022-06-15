@@ -17,7 +17,7 @@
 		...
 
 4. 6/22 - 6/28
-	* Manager: NAME
+	* Manager: Justin Do
 	* Goals:
 		1. GOALHERE
 		...
