@@ -11,10 +11,13 @@
 		1. Build "end credits" game skeleton
 
 3. 6/15 - 6/21
-	* Manager: NAME
+	* Manager: None
 	* Goals:
-		1. GOALHERE
-		...
+		1. Create a generic map (example)
+		2. Create temp player (rectangle player/actual miner)
+		3. Ability to move left and right 
+		4. Ability to jump and fall (gravity)
+		5. Collision with walls and floors (rectangle player)
 
 4. 6/22 - 6/28
 	* Manager: Justin Do
@@ -29,7 +32,7 @@
 		...
 
 6. 7/6 - 7/12
-	* Manager: NAMENEEDEDMIDTERM
+	* Manager: Landin O'Neill
 	* Goals:
 		1. GOALHERE
 		...
