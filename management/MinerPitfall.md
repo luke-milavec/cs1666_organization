@@ -26,7 +26,7 @@
 		...
 
 5. 6/29 - 7/5
-	* Manager: NAME
+	* Manager: Grant Smith
 	* Goals:
 		1. GOALHERE
 		...
