@@ -20,13 +20,13 @@
 		5. Collision with walls and floors (rectangle player)
 
 4. 6/22 - 6/28
-	* Manager: Grant Smith
+	* Manager: NAME 
 	* Goals:
 		1. GOALHERE
 		...
 
 5. 6/29 - 7/5
-	* Manager: NAME
+	* Manager: Grant Smith
 	* Goals:
 		1. GOALHERE
 		...
