@@ -22,8 +22,12 @@
 4. 6/22 - 6/28
 	* Manager: Justin Do
 	* Goals:
-		1. GOALHERE
-		...
+		1. Start new game
+   		2. Player health
+ 		3. Health bar
+   		4. Placeholder enemy to test damage
+		5. Room data structure
+		6. Exit door to end game
 
 5. 6/29 - 7/5
 	* Manager: NAME
