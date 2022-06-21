@@ -50,7 +50,7 @@
 		...
 
 9. 7/27 - 8/3
-	* Manager: NAMENEEDEDFINAL
+	* Manager: Lucas Milavec 
 	* Goals:
 		1. GOALHERE
 		...
