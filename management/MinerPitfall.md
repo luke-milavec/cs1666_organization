@@ -28,7 +28,7 @@
 		4. Collision detection on enemy
    		5. Placeholder enemy to test damage on the player
 		6. Room data structure: backend update
-		7. Exit door to end game: displayed
+		7. Exit door to end game: display end state
 
 5. 6/29 - 7/5
 	* Manager: Grant Smith
