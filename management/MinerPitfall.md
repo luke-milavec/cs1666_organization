@@ -22,8 +22,13 @@
 4. 6/22 - 6/28
 	* Manager: Justin Do
 	* Goals:
-		1. GOALHERE
-		...
+		1. Start new game, build starting state
+   		2. Player health: add new health component to the ECS and attach this to the player
+ 		3. Display current player's health, need to determine how we want to display to user
+		4. Collision detection on enemy
+   		5. Apply damage on the player after collision with enemy
+		6. Room data structure: backend update
+		7. Exit door to end game: display end state
 
 5. 6/29 - 7/5
 	* Manager: Grant Smith
