@@ -33,8 +33,12 @@
 5. 6/29 - 7/5
 	* Manager: Grant Smith
 	* Goals:
-		1. GOALHERE
-		...
+		1. Create start screen
+		2. Fix general player movement
+		3. Create new textures for player and blocks
+		4. Create a pickaxe swing motion with animation
+		5. Collision with generated platforms, not just ground and sides
+		6. Going through door displays credits
 
 6. 7/6 - 7/12
 	* Manager: Landin O'Neill
