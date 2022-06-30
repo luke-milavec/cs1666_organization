@@ -37,8 +37,9 @@
 		2. Fix general player movement
 		3. Create new textures for player and blocks
 		4. Create a pickaxe swing motion with animation
-		5. Collision with generated platforms, not just ground and sides
-		6. Going through door displays credits
+		5. Be able to hit and damage enemy
+		6. Collision with generated platforms, not just ground and sides
+		7. Going through door displays win screen and credits while dying to enemy shows lose screen
 
 6. 7/6 - 7/12
 	* Manager: Landin O'Neill
