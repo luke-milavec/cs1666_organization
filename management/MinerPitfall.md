@@ -45,17 +45,17 @@
 	* Manager: Landin O'Neill
 	* Goals:
 		
-   	 1. Player can start a new game. The level generation at this point won't be fully implemented, so there should be an example level, could be smaller than the generated levels.
-    	2. Game Over and Victory Screens, as well as conditions for reaching them
-    	3. Player health, where enemies can damage them
-    	4. Exit Door, which gives the Win screen
-    	5. Basic player controls
-    	6. Collision with walls and floors
-    	7. Ability to move left and right
-    	8. Ability to jump and fall
-    	9. Ability to swing Axe
-    	10. Axe can damage enemies
-    	11. At least one type of enemy that can harm the player
+    		1. Player can start a new game. The level generation at this point won't be fully implemented, so there should be an example level, could be smaller than the generated levels.
+    		2.Game Over and Victory Screens, as well as conditions for reaching them
+     		3.Player health, where enemies can damage them
+    		4.Basic player controls
+        	5.Collision with walls and floors
+        	6.Ability to move left and right
+        	7.Ability to jump and fall
+        	8.Ability to swing Axe
+        	9.Axe can damage enemies
+        	10.At least one type of enemy that can harm the player
+        	11.Exit Door, which gives the Win screen
 
 
 7. 7/13 - 7/19
