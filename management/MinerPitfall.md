@@ -55,6 +55,7 @@
 		9. Axe can damage enemies
 		10. At least one type of enemy that can harm the player
 		11. Exit Door, which gives the Win screen
+		12. The game should not crash! Don't make it start crashing.
 
 
 7. 7/13 - 7/19
