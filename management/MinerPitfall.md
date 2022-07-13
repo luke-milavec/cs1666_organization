@@ -63,7 +63,7 @@
 	* Goals:
 		1. Create animation for the pickaxe swing.
 		2. Create animation reflecting the damage on player and enemy.
-		3. Create an invincible wall surrounding enemy.
+		3. Solve the problem that player runs over the enemy.
 		4. Ability for the enemy to move around on a fixed route.
 		5. Create design specifications for level data structures and level generation functions.
 		6. Ability for player to adjust its face depending on the direction of movement.
