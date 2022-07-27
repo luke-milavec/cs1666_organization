@@ -78,6 +78,25 @@
 9. 7/27 - 8/3
 	* Manager: Lucas Milavec
 	* Goals:
-		1. GOALHERE
-		...
+		1.) Bomb throw
+		2.) Bomb pickup
+		3.) Bomb damage
+		4.) Wall destruction
+		5.) Pickaxe damage
+		6.) Walk from one room to next
+		7.) Fix exit wall generation
+		8.) Finish cave generation
+		9.) Implement item generation
+
+	* Stretch Goals:
+		1.) Water
+			-generation
+			-explosion physics
+			-slower movement
+			-o2 meter 
+
+		2.) Boss fight
+			-sprite
+			-generation
+			-sight and attack patterns
 
